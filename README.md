@@ -20,7 +20,7 @@ Your project directory should resemble the following in your preferred IDE:
 
 ![qiskit-temp_01](images/qiskit-temp_01.png)
 
-2. Open the terminal in the ``Qiskit-Template`` folder and run:
+2. Open the terminal in the ``Qiskit-Notebooks`` folder and run:
 ```
 pip install -r ./requirements.txt
 ```
