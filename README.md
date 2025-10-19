@@ -30,7 +30,7 @@ pip install -r ./requirements.txt
 
 ![qiskit-temp_02](images/qiskit-temp_02.png)
 
-4. Run the example script in the **code cell** to make sure that everything works correctly.
+4. Run the first **code cell** to verify the setup.
    - if the notebook environment requires **ipykernel**, simply **click install** 
 
 
