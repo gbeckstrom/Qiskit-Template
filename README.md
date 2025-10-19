@@ -37,4 +37,4 @@ pip install -r ./requirements.txt
 ## 📚 Resources
 - [IBM Quantum Computing | Qiskit](https://www.ibm.com/quantum/qiskit)
 - [IBM Quantum Documentation](https://quantum.cloud.ibm.com/docs/en)
-- [qiskit | GitHub](https://github.com/Qiskit/qiskit)
+- [GitHub | qiskit](https://github.com/Qiskit/qiskit)
