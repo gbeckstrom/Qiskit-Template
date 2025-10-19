@@ -1,4 +1,4 @@
-<h1 align="center">Qiskit-Template</h1>
+<h1 align="center">Qiskit Template</h1>
 
 > [!NOTE]
 > For more help check out this video: [How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers](https://youtu.be/dZWz4Gs_BuI?si=m1JOLvMsmwZMCxka)
