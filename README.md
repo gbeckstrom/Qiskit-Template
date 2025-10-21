@@ -6,7 +6,7 @@
 ##  🌱 Getting Started
 
 ### 🧰 Requirements
-- Python | 3.9 | 3.20 | 3.11 | 3.12 | 3.13 |
+- Python | 3.9 | 3.10 | 3.11 | 3.12 | 3.13 |
 - Jupyter Notebook
   - VS Code: Install Jupyter extension
   - Outside VS Code: Run ```pip install notebook``` in your terminal
