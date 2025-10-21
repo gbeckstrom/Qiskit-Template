@@ -11,7 +11,7 @@
   - VS Code: Install Jupyter extension
   - Outside VS Code: Run ```pip install notebook``` in your terminal
 
-### Quick Start
+### 🚀 Quick Start
 1. Clone the repository:
 ```
 git clone https://github.com/gbeckstrom/Qiskit-Template.git
