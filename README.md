@@ -26,7 +26,7 @@ pip install -r ./requirements.txt
 ```
 
 3. Open the **.ipynb** file and select your Python environment:
-- Click **Select Kernel** in the top-right cornerof the notebook interface
+- Click **Select Kernel** in the top-right corner of the notebook interface
 
 ![qiskit-temp_02](images/qiskit-temp_02.png)
 
